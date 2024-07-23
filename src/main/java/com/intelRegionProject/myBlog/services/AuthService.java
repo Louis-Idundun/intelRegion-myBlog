@@ -1,2 +1,2 @@
-package com.intelRegionProject.myBlog.services;public class AuthService {
+package com.intelRegionProject.myBlog.services;public interface AuthService {
 }
