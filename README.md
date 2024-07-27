@@ -148,7 +148,7 @@ services:
     restart: always
     environment:
       - 'POSTGRES_DB=myBlog_DB'
-      - 'POSTGRES_PASSWORD=@Luweezy360#'
+      - 'POSTGRES_PASSWORD=$Luweezy36'
       - 'POSTGRES_USER=louisidundun'
     ports:
       - '5432:5432'
